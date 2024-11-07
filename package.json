@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/hoangphuc17/editorjs-video.git"
   },
-  "main": "./dist/bundle.js",
+  "main": "./src/index.js",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch",
@@ -47,5 +47,5 @@
   "bugs": {
     "url": "https://github.com/hoangphuc17/editorjs-video/issues"
   },
-  "homepage": "https://github.com/hoangphuc17/editorjs-video#readme"  
+  "homepage": "https://github.com/hoangphuc17/editorjs-video#readme"
 }
